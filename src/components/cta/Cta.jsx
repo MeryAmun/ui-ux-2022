@@ -2,7 +2,7 @@ import './cta.css'
 
 import React from 'react'
 
-export const Cta = () => {
+export const CTA = () => {
   return (
     <div>
       <h3>CTA</h3>

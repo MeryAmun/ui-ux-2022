@@ -1,4 +1,4 @@
-import './featured.css'
+import './feature.css'
 
 import React from 'react'
 
