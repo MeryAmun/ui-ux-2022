@@ -38,7 +38,13 @@
   background: var(--color-footer);
   border-radius: 5px 0px 0px 5px;
   flex: 2;
-  width: 100%;
+  width: 400px;
+  height: 73px;
+  left: 138px;
+  top: 624px;
+
+  background: #052d56;
+  border-radius: 5px 0px 0px 5px;
   min-height: 50px;
   border: 2px solid var(--color-footer);
   padding: 0 1rem;
