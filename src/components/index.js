@@ -1,5 +1,5 @@
 export { Article } from './article/Article.jsx'
 export { Brand } from './brand/Brand'
-export { CTA } from './cta/CTA'
+export { Cta } from './cta/Cta'
 export { Feature } from './feature/Feature'
 export { Navbar } from './navbar/Navbar'

@@ -2,7 +2,7 @@ import './cta.css'
 
 import React from 'react'
 
-export const CTA = () => {
+export const Cta = () => {
   return (
     <div className='gpt3__cta'>
       <div className='gpt3__cta-content'>
