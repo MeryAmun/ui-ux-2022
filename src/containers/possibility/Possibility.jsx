@@ -11,7 +11,7 @@ export const Possibility = () => {
       </div>
       <div className='gpt3__possibility-content'>
         <h4>Request Early Access to Get Started</h4>
-        <h1 className='gradient-text'>
+        <h1 className='gradient__text'>
           The possibilities are beyond your imagination
         </h1>
         <p>
