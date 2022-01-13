@@ -1,6 +1,5 @@
 import './header.css'
 
-import { Brand } from '../../components'
 import React from 'react'
 import ai from '../../assets/ai.png'
 import people from '../../assets/people.png'
