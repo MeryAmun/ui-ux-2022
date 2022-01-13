@@ -3,6 +3,7 @@ import './navbar.css'
 import React, { useState } from 'react'
 import { RiCloseLine, RiMenu3Line } from 'react-icons/ri'
 
+import { Link } from 'react-router-dom'
 import logo from '../../assets/logo.svg'
 
 //BEM => Block Element Modifier
@@ -10,19 +11,19 @@ import logo from '../../assets/logo.svg'
 const Menu = () => (
   <>
     <p>
-      <a href='/'>Home</a>
+      <Link to='/'>Home</Link>
     </p>
     <p>
-      <a href='/wgpt3'>What is GPT3?</a>
+      <Link to='/wgpt3'>What is GPT3?</Link>
     </p>
     <p>
-      <a href='/possibility'>OpenAi</a>
+      <Link to='/possibility'>OpenAi</Link>
     </p>
     <p>
-      <a href='/features'>Case Studies</a>
+      <Link to='/features'>Case Studies</Link>
     </p>
     <p>
-      <a href='/blog'>Library</a>
+      <Link to='/blog'>Library</Link>
     </p>
   </>
 )
